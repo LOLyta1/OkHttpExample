@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OkHttpExample</string>
+    <string name="get_btn_text">GET</string>
+    <string name="send_btn_text">PUT</string>
+</resources>
